@@ -1,4 +1,6 @@
-# vue-lesson-tutorial
+# Simple counter vue 3
+
+## The counter is limited with values from 0 to 10
 
 ## Project setup
 ```
